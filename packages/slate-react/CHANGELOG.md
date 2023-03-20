@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.91.10
+
+### Patch Changes
+
+- [#5343](https://github.com/ianstormtaylor/slate/pull/5343) [`f7f02a8b`](https://github.com/ianstormtaylor/slate/commit/f7f02a8b23f16a3f3103302343e3326549917892) Thanks [@12joan](https://github.com/12joan)! - Fix error when triple-clicking a word preceding a `contenteditable="false"` DOM node in Chrome
+
 ## 0.91.9
 
 ### Patch Changes
